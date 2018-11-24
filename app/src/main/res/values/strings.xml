@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">DenverRocksV2</string>
+    <string name="transportation">Transportation</string>
+    <string name="history">Historical</string>
+    <string name="fun">Fun</string>
+    <string name="resturant">Resturants</string>
+
+
+        <!---Fun Description Long Text-->
+
+        <string name="union_station_description">Denvers Union Station is a two for one: its a working public transit station
+        and a highly praised dining and shopping center.
+        The station was a huge success when it first opened to the public in 1881,
+        providing railroad service until the center of the building caught fire in 1894.
+        </string>
+
+        <string name="denver_art_museum">With galleries showcasing more than 70,000 works by famed artists such as
+        Vincent Van Gogh and Winslow Homer, the Denver Art Museum houses one of the most impressive collections
+        of art between Chicago and the West Coast. Spread across two buildings, the museums holdings range from
+        pre-Columbian artifacts to contemporary displays</string>
+
+        <string name="red_rocks">With its excellent views of the Rocky Mountains, miles of hiking trails and cinnamon-hued
+        sandstone cliffs, Red Rocks Park is a big draw for outdoors enthusiasts. Occupying 700-some acres, this impressive
+        park offers visitors the opportunity to experience the fascinating geographic transition between the Great Plains
+        and the Rocky Mountains. </string>
+
+        <string name="larimer_square">In 1858, a group of American Indians and settlers struck gold at the foot of the Rocky Mountains.
+        Their discovery soon spread back to the East Coast, prompting people to pick up and move west. The site of the original pioneer
+        camp (known back then as Auraria) soon grew into the charming area now known as Larimer Square. </string>
+
+        <string name="denver_botantic_gardens">The Denver Botanic Gardens 24 acres feature a whopping 50 gardens for visitors to explore.
+        This expansive facility in downtown Denvers Cheesman Park treats travelers to a variety of different environments, from a traditional
+        Japanese garden (complete with bonsai trees) to the South African Plaza blooming with exotic plants like asparagus fern and torch lilies.
+        </string>
+
+        <string name="Museum_of_Nature">With exhibits featuring everything from dinosaur bones to Egyptian mummies, the Denver Museum of Nature and
+        Science inspires learning in the young and young at heart. This impressive facility houses artifacts pertaining to a variety of scientific
+        areas, including anthropology, zoology, geology, health sciences, paleontology and space science. </string>
+
+        <string name="coors_field">Named for Denvers famed beer, Coors Field in Denvers LoDo district is home to Major League Baseballs
+        Colorado Rockies. The stadium occupies a whopping 76 acres and has the capacity for more than 50,000 people. Of course, the main
+        reason to come to Coors Field is to catch a game, but there is more to this stadium than a diamond. </string>
+
+        <!---Historical Description Long Text-->
+
+        <string name="bent_fort">Bent’s Old Fort National Historic Site features a reconstruction of the 1840s trading post that was an important point
+        for fur trade on the Santa Fe Trail.  When you visit, take a tour and watch a living history demonstration about fur trade and life at Bent’s Old Fort.</string>
+
+        <string name="national_monument">Colorado National Monument preserves amazing sandstone towers and canyons, and desert ecosystems. When you visit, drive
+        or bike along Rim Rock Drive and stop for a snack at one of the scenic picnic areas.</string>
+
+        <string name="curecanti">The three reservoirs of the Curecanti National Recreation Area are great places for boating, fishing, hiking, camping, and
+        bird watching.  When you visit, take a boat tour with a ranger on Morrow Point Reservoir and learn about the geology, wildlife and history of the Gunnison River.</string>
+
+        <string name="dinosaur">Dinosaur National Monument preserves fossils, petroglyphs, and canyon ecosystems.
+When you visit, stop at the Carnegie Dinosaur Quarry, and see nearly 1500 fossilized bones from Allosaurus,
+        Apatosaurus, Stegosaurus, and other dinosaurs.</string>
+
+        <string name="florissant">Florissant Fossil Beds National Monument protects 34 million-year-old fossils of redwood trees and insects.
+        When you visit, take a hike through a petrified forest and enjoy views of Pikes Peak.</string>
+
+        <string name="hovenweep">Hovenweep National Monument includes six prehistoric villages built by Ancestral Puebloan people
+        nearly 800 years ago.  When you visit, take a short hike over mesa tops and through sagebrush to see ancient structures,
+        including a three-story tower and kivas.</string>
+
+        <string name="sandcreek">Sand Creek Massacre National Historic Site commemorates the events of November 29, 1864,
+        when Colorado volunteer soldiers attacked an encampment of over 500 Cheyenne and Arapaho people. The site was established
+        to preserve and protect the cultural landscape of the massacre, enhance public understanding, and minimize similar incidents in the future.
+When you visit, learn about the Massacre from an interpretive ranger (daily at 10 am and 2 pm).</string>
+
+        <string name="yuccahouse">Yucca House National Monument preserves the remains of an 600-room Ancestral Pueblo village, and one of the largest
+        archaeological sites in Colorado.  When you visit, take a short walk through a desert shrubland, see the remains of the Upper House and the
+        Lower House, and look for the spring that provided water for the people who lived here.</string>
+
+
+        <!---Resturant Description Long Text-->
+
+        <string name="maria_empanada">Maria Empanada basically does one thingbrilliantly. What it does is authentic Argentinian empanadas in a variety of
+        forms, from savory to sweet. In spite of its location on a busy corner of South Broadway, its an oasis of deliciousness.</string>
+
+        <string name="maria_address">1298 S. Broadway, Denver, CO 80210</string>
+
+        <string name="acron">Located in The Source, the former foundry building turned chic multi-venue marketplace on Brighton Boulevard in RiNo, Acorn
+        features an aptly industrial-chic aesthetic with its exposed bricks and pipes. The restaurant is the offshoot of tasty.</string>
+
+        <string name="acron_address">3350 Brighton Blvd, Denver, CO 80216</string>
+
+        <string name="oldmajor">The focus at this Highlands-area eatery is on heritage-raised meats from Colorado farms. The restaurant does its own butchering
+        and cures the meats in-house (you can see the charcuterie room from the dining area). While the emphasis is on awesome</string>
+
+        <string name="oldmajor_address">3316 Tejon St, Denver, CO 80211</string>
+
+        <string name="olive">Olive and Finch features made from scratch and made to order three meals a day. Breads are baked daily, sauces are house-made,
+        juices are pressed on site and the restaurants chefs cure and smoke the meats. Like the original Uptown location this place is great</string>
+
+        <string name="olive_address">3390 1st Avenue, Denver, CO 80206</string>
+
+        <string name="work">As its name suggests, Work and Class, which opened in 2014, is down to earth and deliberately reflective of the owners own
+        working-class roots. The exceptional food, however, makes it in any class. Red-chile braised pork and coriander-roasted...  Read More</string>
+
+        <string name="work_address">2500 Larimer St, Denver, CO 80205</string>
+
+        <string name="ilposto">Il Posto moved from its cramped Uptown location to an airy, contemporary space in Denvers newest trending culinary neighborhood,
+        RiNo. Trendy, however, is not what owner-chef Andrea Frizzi is going for. Il Posto's menu emphasizes simple, fresh, and simple tastes.</string>
+
+        <string name="ilposto_address">2601 Larimer Street, Denver, CO 80205</string>
+
+        <string name="bistro">Tucked into a secluded breezeway off Larimer Square, intimate Bistro Vendome captures the essence of a Parisian bistro in its
+        ambience and menu. Expect French classics (some rotating) such as cassoulet, duck confit, escargot, steak au poivre and other great dishes.</string>
+
+        <string name="bistro_address">1420 Larimer St, Denver, CO 80202</string>
+
+        <string name="hopalley">Located in the northern reaches of Denvers River North (RiNo) neighborhood, where many of the citys newest restaurants
+        are taking root, Hop Alley is the second venue from Tommy Lee and sister restaurant to Lees successful Uncle in the best.</string>
+
+        <string name="hopalley_address">3500 Larimer Street, Denver, CO 80205</string>
+
+        <string name="fruiton">Chef Alex Seidel opened Fruition Restaurant in 2007. With its seasonally driven menu of upscale comfort food and a
+        well-curated wine list, it was an instant success. While the ubiquitous term "farm-to-table" is now overused, Seidel set the bar.</string>
+
+        <string name="fruiton_address">1313 E. 6th Avenue, Denver, CO 80218</string>
+
+        <string name="guardgrace">The bone-in ribeye will vie for the best steak youve ever had. Opened since 2014, Guard and Grace puts steaks
+        front and center in this 9,000-square-foot modern space, but the menu showcases wood-fired options of all kinds, including veggies and sides.</string>
+
+        <string name="guardgrace_address">1801 California St, Denver, CO 80202</string>
+
+
+    </resources>
+
